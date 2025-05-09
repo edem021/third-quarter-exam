@@ -1,5 +1,3 @@
-function palindromeArray(array) {
-  //write your code here
-}
+const palindromeArray = array => array.join("") === array.reverse().join("");
 
 module.exports = palindromeArray

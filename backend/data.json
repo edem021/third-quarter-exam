@@ -31,5 +31,14 @@
       "Ördög",
       "Kismacska"
     ]
+  },
+  {
+    "id": 5,
+    "name": "Márta Richárd",
+    "age": 29,
+    "pets": [
+      "Sedó",
+      "Nyafi"
+    ]
   }
 ]
